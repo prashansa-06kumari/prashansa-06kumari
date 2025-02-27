@@ -19,7 +19,7 @@
 - LinkedIn: [prashansa-kumari23](https://www.linkedin.com/in/prashansa-kumari23/)
 
 ### ⚡ **Fun Fact:**
-- I talk to my code as if it’s a person—hoping it’ll behave better. 😅
+- I talk to my code as if it’s a person—hoping it’ll behave better. 
 
 ---
 
