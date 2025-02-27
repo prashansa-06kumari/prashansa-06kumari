@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashansa Kumari</h1>
-<h3 align="center">Full-Stack Developer | Tech Enthusiast</h3>
+<h3 align="center"> Tech Enthusiast</h3>
 
 <!-- Moved image down below the text -->
 <p align="center">
