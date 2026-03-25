@@ -8,10 +8,10 @@
 ---
 
 ## 💫 About Me
-💻 Results-oriented Computer Science undergraduate with strong foundations in software development and core CS concepts.  
-⚡ Passionate about building scalable applications, RESTful APIs, and cloud-based solutions.  
-🧠 Strong in problem-solving, debugging, and writing efficient, reliable code.  
-☁️ Exploring **Cloud Computing, Automation & Modern DevOps practices**.
+Results-oriented Computer Science undergraduate with strong foundations in software development and core CS concepts.  
+Passionate about building scalable applications, RESTful APIs, and cloud-based solutions.  
+Strong in problem-solving, debugging, and writing efficient, reliable code.  
+Exploring **Cloud Computing, Automation & Modern DevOps practices**.
 
 ---
 
@@ -24,29 +24,29 @@
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 Java • SQL • Python • JavaScript • C++ • C  
 
-### 🌐 Web & Backend
+### Web & Backend
 React • Node.js • Express.js • REST APIs  
 
-### 🗄️ Databases
+### Databases
 MySQL • MongoDB • Database Design • Query Optimization  
 
-### ⚙️ Tools & Technologies
+### Tools & Technologies
 Git • GitHub • Linux • Postman  
 
-### 📚 Core Concepts
+### Core Concepts
 Data Structures & Algorithms • DBMS • Operating Systems • Computer Networks  
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 Cloud Computing • CI/CD • Automation  
 
 ---
 
 ## 🚀 Projects
 
-### 🏫 Campus Management System
+### Campus Management System
 **Java | Spring Boot | MySQL | Razorpay**
 - Developed scalable RESTful APIs ensuring maintainability using SDLC & Agile practices  
 - Optimized database queries improving performance by **30%**  
@@ -54,7 +54,7 @@ Cloud Computing • CI/CD • Automation
 
 ---
 
-### 🤖 AI Text Summarizer
+### AI Text Summarizer
 **Java | Spring Boot | Gemini API**
 - Built responsive web app with AI-powered content generation  
 - Integrated **Google Gemini API** for real-time responses  
@@ -62,7 +62,7 @@ Cloud Computing • CI/CD • Automation
 
 ---
 
-### 🤝 Collab Space (Real-Time Platform)
+### Collab Space (Real-Time Platform)
 **MERN Stack | WebSocket**
 - Developed full-stack app with **real-time collaboration features**  
 - Implemented WebSocket for **low-latency communication**  
